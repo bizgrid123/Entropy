@@ -1,1 +1,10 @@
+= Entropy管理系统使用手册
 
+== 商品
+
+=== 第一步：登录系统
+- 在浏览器输入Entropy网址，例如：https://216s86948t.iask.in/wechat-trunk-test/entropyAdmin/#/login。
+-  输入正确的用户名和密码，点击“登录”按钮。
+
+![](https://github.com/bizgrid123/Entropy/blob/master/Images/添加分类.png)
+ 

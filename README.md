@@ -1,0 +1,2 @@
+# Entropy
+Retail management system
